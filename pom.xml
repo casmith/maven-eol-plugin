@@ -4,8 +4,8 @@
     <groupId>maven-eol-plugin</groupId>
     <artifactId>maven-eol-plugin</artifactId>
     <packaging>maven-plugin</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <name>dos2unix Maven Mojo</name>
+    <version>1.0</version>
+    <name>Maven EOL Plugin</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
